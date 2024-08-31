@@ -6,6 +6,7 @@ const Page1 = () => {
     <>
     
     <h1>Page1</h1>
+    <div>Test</div>
     <Link to="page2">page2</Link>
     </>
   )
