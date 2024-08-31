@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import img1 from "../../img/1.jpg"
+import img1 from "../img/1.jpg"
 
  const Page2 = () => {
   return (
